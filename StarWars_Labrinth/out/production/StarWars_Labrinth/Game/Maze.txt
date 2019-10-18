@@ -1,0 +1,17 @@
+Karakter:MasterYoda:
+Karakter:Stormtrooper,Kapi:A
+Karakter:DarthVader,Kapi:B
+Karakter:KyloRen,Kapi:C
+Karakter:KyloRen,Kapi:D
+Karakter:Stormtrooper,Kapi:E
+0	0	0	0	1	0	0	0	0	0	0	0	1	0
+0	1	1	1	1	0	1	1	1	1	1	1	1	0
+0	1	0	1	1	1	1	0	1	0	0	0	1	0
+0	1	0	1	1	0	1	0	1	1	0	1	1	0
+0	1	0	1	0	0	1	0	1	1	0	1	1	0
+1	1	0	1	1	1	1	0	1	0	0	0	1	1
+0	1	0	0	1	0	1	0	1	0	1	1	1	0
+0	1	0	1	1	1	1	1	1	0	0	0	1	0
+0	1	0	1	0	0	0	0	1	0	0	1	1	0
+0	1	1	1	1	1	1	1	1	1	1	1	1	1
+0	0	0	0	1	0	0	0	0	0	0	0	0	0
